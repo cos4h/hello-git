@@ -2,6 +2,6 @@
 using std::cout;
 
 int main() {
-    cout << "New hello Git!\n";
+    cout << "New hello GitHub!\n";
     return 0;
 }
