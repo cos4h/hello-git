@@ -3,5 +3,5 @@
 using std::cout;
 
 void man() {
-    cout << "New hello Git3!\n";
+    cout << "New hello v 3!\n";
 }
